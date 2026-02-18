@@ -1,6 +1,8 @@
 #pragma once
+#include <arpa/inet.h>
 #include <vector>
 #include <string>
+#include <cstring>
 
 using Bytes = std::vector<uint8_t>;
 
